@@ -4,5 +4,7 @@
 
 name = input ("What's your name: ")
 
-print (name).strip().title()
+name = name.strip().title()
+
+print (name)
 
