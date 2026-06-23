@@ -1,3 +1,4 @@
 import random
 
-random.choices (["head", "tail"])
+coin = random.choices (["head", "tail"])
+print (coin)
